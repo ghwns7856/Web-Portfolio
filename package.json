@@ -1,0 +1,21 @@
+{
+  "name": "hjpf",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "pure-react-carousel": "^1.12.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-fancytext": "^1.0.3",
+    "react-scripts": "1.1.4",
+    "react-tubular": "0.0.2",
+    "react-video-cover": "^1.2.0",
+    "typed.js": "^2.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
