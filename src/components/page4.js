@@ -29,4 +29,4 @@ class Page4 extends Component {
     }
 }
 
-export default Page4;
+export default Page4; 
