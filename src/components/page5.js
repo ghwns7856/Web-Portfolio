@@ -25,4 +25,4 @@ class Page5 extends Component {
     }
 }
 
-export default Page5;
+export default Page5; 
