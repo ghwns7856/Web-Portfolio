@@ -70,4 +70,4 @@ class Page2 extends Component {
     }
 }
 
-export default Page2;
+export default Page2; 
